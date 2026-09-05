@@ -1,5 +1,3 @@
-Below is a complete **GitHub README.md section for your Hand Gesture Control project**. You can copy this directly into your GitHub repository.
-
 ---
 
 # ESP32-CAM Hand Gesture Controlled LED System
@@ -730,17 +728,3 @@ IoT
 to create a practical touchless control system.
 
 ---
-
-## Recommended GitHub Repository Name
-
-I suggest:
-
-```text
-ESP32-CAM-Hand-Gesture-Control
-```
-
-Or a more professional name:
-
-```text
-ESP32-OV3660-Gesture-Control-System
-```
